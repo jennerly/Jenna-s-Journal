@@ -16,6 +16,7 @@ struct ContentView: View {
             Color(hue: 1.0, saturation: 0.096, brightness: 1.0)
                 .ignoresSafeArea()
             VStack() {
+                Text("CHANGEEEEE")
                 Text("Jenna's Journal")
                     .font(.custom("Domine", size: 30))
                     .font(.title)
